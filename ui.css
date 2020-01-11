@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    height: 100vh;
+    display: grid;
+    place-content: center;
+    background-color: rgb(247, 247, 247);
+    font-family: consolas;
+}
+.container{
+    background-color: #ffffff;
+    width: 20rem;
+    height: 10rem;
+    font-weight: bold;
+    font-size: large;
+    text-align: center;
+}
+h3{
+    margin-top: 5rem;
+}
